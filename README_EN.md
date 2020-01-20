@@ -1,11 +1,10 @@
-# NLP 101: 딥러닝과 자연어 처리 학습을 위한 자료 저장소
-본 문서는 딥러닝을 이용한 자연어 처리를 학습하고자 하는 분들을 대상으로 작성되었습니다.
-추가되었으면 좋겠다 생각하시는 자료를 알려주시면 반영하도록 하겠습니다.
+# NLP 101: a Resouce Repository for Deep Learning and Natural Language Processing
+This document is drafted for those who have enthusiasm for Deep Learning in natural language processing. If there are any good recommendations or suggestions, I will try to add more.
 
-_본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
-- 기본적으로 동일한 내용을 다루는 자료는 중복해서 기록하지 않습니다.
-- 난이도가 유사하다고 판단되는 자료는 하나만 기록합니다.
-- 난이도의 차이가 있는 자료, 이를테면 선후행 학습이 수반되어야 하는 자료는 모두 기록합니다.
+_This document is drafted with the rules as follows:_
+- Materials that are considered to cover the same grounds will not be recorded repeatedly.
+- Only one among those within similar level of difficulty will be recorded.
+- Materials with different level of difficulty that need prerequsite or additional learning will be recorded.
 
 Languages: [Korean](/README.md) | [English](/README_EN.md)
 
